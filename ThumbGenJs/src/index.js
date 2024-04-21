@@ -126,7 +126,7 @@ export default {
             }
 
             const text =
-                "Api is working fine.\n\nSupport : https://telegram.me/TechZBots_Support";
+                "Api is working fine.";
 
             return new Response(text, {
                 headers: {
